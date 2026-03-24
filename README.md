@@ -1,6 +1,6 @@
-# Ghost-Note-Retro
+# Editron-7
 Encrypted simple note taking tool with customizable (slightly) retro theme. Uses AES-256-GCM with PBKDF2 derivation. 
 
 Perfect as a fun little tool, nothing more.  
  
-Thinking about renaming this to Editron 7
+Thinking about renaming this to Editron-7
